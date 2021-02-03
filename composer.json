@@ -1,0 +1,19 @@
+{
+    "name": "gs-nasc/cpf-tools",
+    "description": "Neste pacote existem utilitarios para cpf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Nascimento",
+            "email": "gsnaxsi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CPFTool\\": "src/"
+        }
+    }
+}
