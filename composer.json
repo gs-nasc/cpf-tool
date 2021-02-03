@@ -1,0 +1,10 @@
+{
+    "name": "programacao/cpf-tool",
+    "authors": [
+        {
+            "name": "Gabriel Nascimento",
+            "email": "gabriel.nascimento189@etec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
